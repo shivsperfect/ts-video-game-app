@@ -20,7 +20,7 @@ const PlatformIconsList = ({ platforms }: Props) => {
     linux: FaLinux,
     ios: MdPhoneIphone,
     web: BsGlobe,
-    andriod: FaAndroid
+    android: FaAndroid
   }
   return (
     <HStack marginY={1}>
